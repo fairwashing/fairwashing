@@ -1,0 +1,10 @@
+.python
+*.pyc
+/*.egg-info
+.eggs
+**/__pycache__
+/*.idea
+**/results_*
+/share/models/
+/share/data
+/var
