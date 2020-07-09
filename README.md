@@ -87,7 +87,7 @@ Options:
 
 Training on FashionMNIST can be initiated in the following way:
 ```bash
-env/bin/python script/fairwashing.py train \
+$ python script/fairwashing.py train \
     --dataroot "share/data" \
     --dataset "fmnist" \
     --method "grad" \
