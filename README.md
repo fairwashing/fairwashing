@@ -1,5 +1,5 @@
 # Fairwashing explanations with off-manifold detergent
-This is the code-repository for the ICML 2020 paper __Fairwashing explanations with off-manifold detergent__. ([PDF](https://proceedings.icml.cc/static/paper_files/icml/2020/3760-Paper.pdf))
+This is the code-repository for the ICML 2020 paper __Fairwashing explanations with off-manifold detergent__. ([PDF](http://proceedings.mlr.press/v119/anders20a.html))
 
 ![Off-manifold detergent](docs/img/detergent.png)
 
